@@ -1,1 +1,5 @@
 # Database-Management
+
+With the development of network technology, the industry of computer science is increasingly dependent on the database management system (DBMS). The DBMS is expected to allow users create new databases and specify their schemas, using a specialized data-definition language, support the storage of large amounts of data, allowing efficient access to the data for queries. The system also provides various functions that allow entry, storage and retrieval of large quantities of information and provides ways to manage how that information is organized.
+
+The aim of this project is to apply what was learned from the course of data management, such as knowledge of Relational Database, NoSQL, and Resilient Distributed Dataset, to practice. Following such directions, we are able to design a search engine for New York Times article query and provide the interface for users to interact with the database. In the storage and search section, I use Elasticsearch instead of NoSQL, since the former one is the expert at searching and provides faster speed for query.
