@@ -1,0 +1,10 @@
+@charset "utf-8";
+html,body{margin:0;padding:0;border:0;background: #aaa;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:text-bottom;}
+body {line-height:1.5;}
+body { background:#fff; font: 12px/1.5 Tahoma,'宋体';color:#000;}
+/*Search frame*/
+.inputArea{position:relative;margin:auto;}
+.inputArea .searchInput{border:1px solid #bfbfbf;padding:0 15px;outline:none;height:40px;width:520px; background:url("../image/inputbg.png");font-size:14px;margin:auto;margin-right:165px;}
+.inputArea .searchButton{width:106px;height:42px;background:url("../image/seachbtn.png") no-repeat;border:none;cursor:pointer;margin:auto;position: absolute;left: 495px;right: 0;bottom: 0;top:0;}
+.center{ width: 47%;height: 5%;margin: auto; position: absolute; top: 0; left: 0; bottom: 0; right: 0; }
+#foot{height:32px;line-height:32px; text-align:center;background:#f9f9f9;border-top:1px solid #e0e0e0;color:#ababab;margin-left: 0px;margin-bottom: 0px;position: relative;position: absolute;bottom: 0;width: 100%;}
